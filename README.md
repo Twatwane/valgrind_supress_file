@@ -1,6 +1,6 @@
 # valgrind_supress_file
 <br>
-- use like this : 
+- use like this :
 ```bash
 valgrind --suppressions=readline.supp ./your_prog
 ```
